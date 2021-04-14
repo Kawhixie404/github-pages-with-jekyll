@@ -1,5 +1,7 @@
-title: Your-Title
+---
+title: "Your blog post title"
 date: 2021-04-14
+---
 author: Kawhi
 email: 1155143418
 description: > # this means to ignore newlines until "baseurl:"
